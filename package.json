@@ -1,6 +1,10 @@
 {
-  "name": "teai-w5",
-  "version": "0.0.0",
+  "name": "teai5-weather",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.16.1"
+    },
   "scripts": {
     "ng": "ng",
     "start": "node index.js",
